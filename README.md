@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0xdutc.
+- 👀 I’m interested in computer science, blockchains, defi & crypto.
+- 🌱 I’m currently learning different defi and blockchain protocols.
+- 💞️ I’m looking to collaborate on designing new algorithms, defi and blockchain protocols.
+- 📫 Reach out to me at linkedin.com/in/yashragrawal.
